@@ -1,0 +1,555 @@
+gene_name	gene_product	Weight	Query 5: Carbo (weight: 1)	Query 4: Lipids (weight: 1)	Query 6: aminoacids (weight: 1)	
+TcCLB.511179.150	alanine racemase, putative	1	0	0	1	
+TcCLB.506853.30	arginine N-methyltransferase, type II, putative	2	0	1	1	
+TcCLB.511277.110	citrate synthase, putative	1	1	0	0	
+TcCLB.510187.20	tyrosine aminotransferase, putative	1	0	0	1	
+TcCLB.509717.20	dihydrolipoamide acetyltransferase precursor, putative	2	1	0	1	
+TcCLB.511025.110	dihydrolipoyl dehydrogenase, putative	2	1	0	1	
+TcCLB.507589.14	tryptophanyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.508153.60	Aminopeptidase M1, putative	1	0	0	1	
+TcCLB.509231.20	CMGC/RCK protein kinase, putative	1	1	0	0	
+TcCLB.510659.240	lactoylglutathione lyase-like protein, putative	1	1	0	0	
+TcCLB.507809.30	ribose-phosphate pyrophosphokinase, putative	1	1	0	0	
+TcCLB.506247.330	2,3-bisphosphoglycerate-independent phosphoglycerate mutase, putative	2	1	0	1	
+TcCLB.510349.50	CDP-diacylglycerol--inositol 3-phosphatidyltransferase, putative	2	1	1	0	
+TcCLB.508299.80	threonyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.503723.90	glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain, putative	1	1	0	0	
+TcCLB.506337.70	2-oxoglutarate dehydrogenase E1 component, putative	2	1	0	1	
+TcCLB.503899.90	asparagine synthetase a, putative	1	0	0	1	
+TcCLB.507787.100	gamma-glutamylcysteine synthetase, putative	1	0	0	1	
+TcCLB.510141.10	thymine-7-hydroxylase, putative	1	1	0	0	
+TcCLB.510911.50	glycine dehydrogenase [decarboxylating], putative	2	1	0	1	
+TcCLB.506219.40	hypothetical protein, conserved	1	0	1	0	
+TcCLB.506789.280	methylthioadenosine phosphorylase, putative	1	0	0	1	
+TcCLB.508271.10	phenylalanyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.509719.50	CMGC/RCK protein kinase, putative	1	1	0	0	
+TcCLB.511165.100	Calcium/calmodulin-dependent protein kinase kinase, putative	1	1	0	0	
+TcCLB.506567.70	NAD(P)-dependent oxidoreductase, putative	2	1	1	0	
+TcCLB.507993.330	mevalonate-diphosphate decarboxylase, putative	1	0	1	0	
+TcCLB.510515.130	S-adenosyl-methyltransferase mraW-like protein, putative	2	0	1	1	
+TcCLB.506475.14	phosphatidylinositol 3-kinase, putative	1	1	0	0	
+TcCLB.510943.50	delta-1-pyrroline-5-carboxylate dehydrogenase, putative	1	0	0	1	
+TcCLB.509239.10	fatty acid desaturase, putative	1	0	1	0	
+TcCLB.506295.160	2-oxoisovalerate dehydrogenase beta subunit, mitochondrial precursor, putative	2	1	0	1	
+TcCLB.506301.50	succinyl-coA:3-ketoacid-coenzyme A transferase, mitochondrial precursor, putative	3	1	1	1	
+TcCLB.508799.170	3-methylcrotonoyl-CoA carboxylase beta subunit, putative	1	0	0	1	
+TcCLB.506937.10	cytosolic malate dehydrogenase, putative	2	1	0	1	
+TcCLB.510997.10	3-keto-dihydrosphingosine reductase	1	0	1	0	
+TcCLB.509717.90	short chain 3-hydroxyacyl-CoA dehydrogenase, putative	3	1	1	1	
+TcCLB.503881.20	GDP-mannose 4,6 dehydratase, putative	1	1	0	0	
+TcCLB.508781.110	2-oxoisovalerate dehydrogenase alpha subunit, putative	1	0	0	1	
+TcCLB.507883.100	malate dehydrogenase, putative	2	1	0	1	
+TcCLB.510777.20	aspartyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.504149.55	acyl-CoA thioesterase, putative	1	0	1	0	
+TcCLB.508625.150	L-ribulokinase, putative	1	1	0	0	
+TcCLB.506435.280	hypothetical protein, conserved	1	0	1	0	
+TcCLB.506811.190	UDP-galactose 4-epimerase	1	1	0	0	
+TcCLB.508029.10	Hydroxymethylglutaryl-CoA lyase, mitochondrial, putative	3	1	1	1	
+TcCLB.508027.129	Hydroxymethylglutaryl-CoA lyase, mitochondrial, putative	3	1	1	1	
+TcCLB.509331.30	acetyl-CoA synthetase, putative	1	1	0	0	
+TcCLB.503745.30	ascorbate peroxidase	1	1	0	0	
+TcCLB.506831.70	glutamyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.510407.90	serine hydroxymethyltransferase, putative	2	1	0	1	
+TcCLB.506857.20	pyrroline-5-carboxylate reductase, putative	1	0	0	1	
+TcCLB.511003.210	glyoxalase II	1	1	0	0	
+TcCLB.509179.140	myo-inositol-1(or 4)-monophosphatase 1, putative	1	1	0	0	
+TcCLB.510121.20	hexokinase, putative	1	1	0	0	
+TcCLB.511277.210	peroxisomal enoyl-coa hydratase, putative	3	1	1	1	
+TcCLB.507019.10	STE/STE11 serine/threonine-protein kinase, putative	1	1	0	0	
+TcCLB.507017.40	2-hydroxy-3-oxopropionate reductase, putative	2	1	0	1	
+TcCLB.511727.120	ethanolamine-phosphate cytidylyltransferase	1	0	1	0	
+TcCLB.508569.80	phosphoacetylglucosamine mutase, putative	1	1	0	0	
+TcCLB.505683.10	sterol 24-c-methyltransferase, putative	1	0	1	0	
+TcCLB.510303.200	glucosamine-fructose-6-phosphate aminotransferase, putative	2	1	0	1	
+TcCLB.506357.50	alcohol dehydrogenase, putative	3	1	1	1	
+TcCLB.508993.20	homocysteine S-methyltransferase, putative	1	0	0	1	
+TcCLB.511075.30	TFIIH basal transcription factor complex helicase subunit, putative	1	1	0	0	
+TcCLB.506825.170	lanosterol synthase, putative	1	0	1	0	
+TcCLB.506959.64	3-keto-dihydrosphingosine reductase	1	0	1	0	
+TcCLB.508827.40	acyl-CoA dehydrogenase, putative	1	0	1	0	
+TcCLB.503939.80	prolyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.507129.30	C-14 sterol reductase, putative	1	0	1	0	
+TcCLB.506925.319	isocitrate dehydrogenase, putative	1	1	0	0	
+TcCLB.508379.10	fucose kinase, putative	1	1	0	0	
+TcCLB.510879.80	serine acetyltransferase, putative	1	0	0	1	
+TcCLB.511395.20	phosphatidylglycerolphosphate synthase, mitochondrial, putative	1	0	1	0	
+TcCLB.511229.110	glycyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.505071.100	phosphatidylglycerolphosphate synthase, mitochondrial, putative	1	0	1	0	
+TcCLB.508153.340	ATP-dependent 6-phosphofructokinase, glycosomal	1	1	0	0	
+TcCLB.509179.170	hypothetical protein	1	0	1	0	
+TcCLB.509157.60	1-acyl-sn-glycerol-3-phosphate acyltransferase, putative	1	0	1	0	
+TcCLB.506941.150	sphingosine 1-phosphate lyase, putative	1	0	1	0	
+TcCLB.504047.34	acylphosphatase, putative	1	1	0	0	
+TcCLB.510743.60	phospholipase A1, putative	1	0	1	0	
+TcCLB.510431.250	phosphoribosylpyrophosphate synthetase, putative	1	1	0	0	
+TcCLB.503855.20	spermidine synthase, putative	1	0	0	1	
+TcCLB.508601.119	ribose 5-phosphate isomerase, putative	1	1	0	0	
+TcCLB.510381.10	cystathionine beta-synthase, putative	1	0	0	1	
+TcCLB.506411.30	Proline dehydrogenase, mitochondrial	1	0	0	1	
+TcCLB.506773.40	3-methylcrotonoyl-CoA carboxylase beta subunit, putative	1	0	0	1	
+TcCLB.506885.430	lipoic acid containing carrier protein, putative	2	1	0	1	
+TcCLB.510091.80	pyruvate dehydrogenase E1 beta subunit, putative	2	1	0	1	
+TcCLB.511543.60	glutathione peroxidase, putative	1	0	1	0	
+TcCLB.507297.20	cysteinyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.510337.30	adenylosuccinate lyase, putative	1	0	0	1	
+TcCLB.510187.480	phosphomannomutase, putative	1	1	0	0	
+TcCLB.508647.280	malic enzyme	1	1	0	0	
+TcCLB.506775.190	Calcium/calmodulin-dependent protein kinase kinase, putative	1	1	0	0	
+TcCLB.507019.40	histidyl-tRNA synthetase	1	0	0	1	
+TcCLB.507831.70	pyruvate dehydrogenase E1 component alpha subunit, putative	2	1	0	1	
+TcCLB.508177.120	serine sulfhydrylase	1	0	0	1	
+TcCLB.510997.40	enoyl-CoA hydratase/isomerase family protein, putative	1	0	0	1	
+TcCLB.460127.20	metallo- peptidase, Clan M- Family M48	1	0	0	1	
+TcCLB.508173.40	mercaptopyruvate sulfurtransferase, putative	1	0	0	1	
+TcCLB.509715.90	UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain, putative	1	1	0	0	
+TcCLB.508441.20	Phosphoenolpyruvate carboxykinase [ATP], glycosomal	1	1	0	0	
+TcCLB.508677.80	NADP-dependent alcohol hydrogenase, putative	2	1	1	0	
+TcCLB.505999.100	3-phosphoglycerate kinase, glycosomal	1	1	0	0	
+TcCLB.506359.60	UTP-glucose-1-phosphate uridylyltransferase 2, putative	1	1	0	0	
+TcCLB.511661.90	ribose-phosphate pyrophosphokinase, putative	1	1	0	0	
+TcCLB.506321.310	phosphoribosylpyrophosphate synthetase, putative	1	1	0	0	
+TcCLB.503899.110	glutathione peroxidase-like protein, putative	1	0	1	0	
+TcCLB.509757.49	L-ribulokinase, putative	1	1	0	0	
+TcCLB.510445.50	S-adenosylmethionine synthetase, putative	1	0	0	1	
+TcCLB.509247.50	methionyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.510431.40	CAAX prenyl protease 1, putative	1	0	0	1	
+TcCLB.506649.70	fructose-1,6-bisphosphatase, cytosolic, putative	1	1	0	0	
+TcCLB.511245.240	CMGC/DYRK protein kinase, putative	1	1	0	0	
+TcCLB.507949.130	glycerol-3-phosphate dehydrogenase (FAD-dependent), putative	1	0	1	0	
+TcCLB.511807.110	GMP synthase [glutamine-hydrolysing]	1	0	0	1	
+TcCLB.509967.30	aspartyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.510879.160	tyrosine phosphatase, putative	1	1	0	0	
+TcCLB.506409.240	glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain, putative	1	1	0	0	
+TcCLB.507625.99	gamma-glutamylcysteine synthetase, putative	1	0	0	1	
+TcCLB.511261.160	pyruvate dehydrogenase E1 component alpha subunit, putative	2	1	0	1	
+TcCLB.509213.70	ribulose-5-phosphate 3-epimerase, putative	1	1	0	0	
+TcCLB.507515.10	glutathione peroxidase-like protein, putative	1	0	1	0	
+TcCLB.511181.80	threonyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.509605.10	malonyl-CoA decarboxylase, mitochondrial precursor, putative	1	1	0	0	
+TcCLB.506795.40	phosphatidylserine synthase, putative	1	0	1	0	
+TcCLB.511281.60	pyruvate kinase 2, putative	1	1	0	0	
+TcCLB.511461.14	glyceraldehyde 3-phosphate dehydrogenase, putative	1	1	0	0	
+TcCLB.427789.30	NAD+ synthase, putative	1	0	0	1	
+TcCLB.509717.80	glyceraldehyde 3-phosphate dehydrogenase, cytosolic, putative	1	1	0	0	
+TcCLB.507091.50	aspartate carbamoyltransferase, putative	1	0	0	1	
+TcCLB.506945.160	S-adenosylmethionine synthetase, putative	1	0	0	1	
+TcCLB.511717.90	phosphomannose isomerase, putative	1	1	0	0	
+TcCLB.504055.50	hypothetical protein, conserved	1	0	1	0	
+TcCLB.506831.40	3-hydroxy-3-methylglutaryl-CoA reductase	1	0	1	0	
+TcCLB.509463.30	3-ketoacyl-CoA thiolase, putative	2	0	1	1	
+TcCLB.510329.70	cdc2-related kinase 10, putative	1	1	0	0	
+TcCLB.511859.170	NADH-cytochrome b5 reductase, putative	1	1	0	0	
+TcCLB.510329.270	Fumarate hydratase class I, cytosolic	1	1	0	0	
+TcCLB.511923.110	aspartate carbamoyltransferase, putative	1	0	0	1	
+TcCLB.510947.40	agmatinase, putative	1	0	0	1	
+TcCLB.505071.60	Serine/threonine-protein kinase NEK14, putative	1	1	0	0	
+TcCLB.507031.90	arginase, putative	1	0	0	1	
+TcCLB.510105.130	phosphatidylinositol-4-phosphate 5-kinase type II beta, putative	1	1	0	0	
+TcCLB.506559.350	asparaginyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.506221.80	NAD+ synthase, putative	1	0	0	1	
+TcCLB.507883.109	mitochondrial malate dehydrogenase, putative	2	1	0	1	
+TcCLB.508119.120	GDP-mannose 4,6 dehydratase, putative	1	1	0	0	
+TcCLB.508865.10	glutathione synthetase, putative	1	0	0	1	
+TcCLB.511671.70	glucosamine 6-phosphate n-acetyltransferase, putative	2	1	0	1	
+TcCLB.503899.130	glutathione peroxidase-like protein, putative	1	0	1	0	
+TcCLB.511855.70	CMGC/MAPK protein kinase, putative	1	1	0	0	
+TcCLB.503521.50	UTP-glucose-1-phosphate uridylyltransferase 2, putative	1	1	0	0	
+TcCLB.510661.60	glycerol kinase, glycosomal, putative	1	0	1	0	
+TcCLB.504867.90	glycerol-3-phosphate acyltransferase, putative	1	0	1	0	
+TcCLB.508951.40	acyl-CoA dehydrogenase, putative	2	0	1	1	
+TcCLB.506943.60	glyceraldehyde 3-phosphate dehydrogenase, putative	1	1	0	0	
+TcCLB.509027.60	kinetoplastid kinetochore protein 10, putative	1	1	0	0	
+TcCLB.511151.90	glycerol-3-phosphate dehydrogenase, putative	1	0	1	0	
+TcCLB.506885.413	glyceraldehyde-3-phosphate dehydrogenase, putative	1	1	0	0	
+TcCLB.511491.80	mitogen activated protein kinase 4, putative	1	1	0	0	
+TcCLB.511237.40	CDP-DAG synthase, putative	1	0	1	0	
+TcCLB.511909.40	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial	1	1	0	0	
+TcCLB.506503.69	glycosomal malate dehydrogenase, putative	2	1	0	1	
+TcCLB.511635.40	protein tyrosine phosphatase, putative	1	0	1	0	
+TcCLB.508717.30	phosphoribosylpyrophosphate synthetase, putative	1	1	0	0	
+TcCLB.507681.20	succinyl-CoA ligase [GDP-forming] beta-chain, putative	1	1	0	0	
+TcCLB.508185.10	enoyl-CoA hydratase, mitochondrial precursor, putative	3	1	1	1	
+TcCLB.511235.20	glyceraldehyde 3-phosphate dehydrogenase, cytosolic, putative	1	1	0	0	
+TcCLB.507689.30	glutamamyl carboxypeptidase, putative	1	0	0	1	
+TcCLB.511003.190	aldose 1-epimerase, putative	1	1	0	0	
+TcCLB.510257.30	ribulose-5-phosphate 3-epimerase, putative	1	1	0	0	
+TcCLB.508859.90	phosphatidylinositol 3-kinase 2, putative	1	1	0	0	
+TcCLB.511911.130	phosphoglucomutase	1	1	0	0	
+TcCLB.509167.100	valyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.506229.50	nucleoside phosphatase, putative	1	1	0	0	
+TcCLB.506727.100	enoyl-CoA hydratase/isomerase family protein, putative	3	1	1	1	
+TcCLB.506443.70	glutathione-S-transferase/glutaredoxin, putative	1	0	1	0	
+TcCLB.407335.9	phosphatidylserine decarboxylase, putative	1	0	1	0	
+TcCLB.506853.50	2-oxoisovalerate dehydrogenase alpha subunit, putative	1	0	0	1	
+TcCLB.508933.10	dihydrolipoamide dehydrogenase, putative	2	1	0	1	
+TcCLB.504427.110	acetyl-CoA synthetase, putative	1	1	0	0	
+TcCLB.509791.150	choline/ethanolamine phosphotransferase, putative	1	0	1	0	
+TcCLB.503713.30	6-phosphogluconolactonase, putative	1	1	0	0	
+TcCLB.504425.90	aldose 1-epimerase-like protein, putative	1	1	0	0	
+TcCLB.504057.104	phosphatidylinositol 4-phosphate 5-kinase alpha, putative	1	1	0	0	
+TcCLB.505807.110	alkyl-dihydroxyacetone phosphate synthase, putative	1	0	1	0	
+TcCLB.510003.30	phosphatidylinositol 4-kinase alpha, putative	1	1	0	0	
+TcCLB.508369.20	squalene synthase, putative	1	0	1	0	
+TcCLB.504191.10	sterol 24-c-methyltransferase, putative	1	0	1	0	
+TcCLB.427247.10	CMGC/DYRK protein kinase, putative	1	1	0	0	
+TcCLB.509759.10	L-ribulokinase, putative	1	1	0	0	
+TcCLB.503575.50	fatty acyl CoA synthetase, putative	1	0	1	0	
+TcCLB.507657.10	metallo-peptidase, clan MH, family M18, putative	1	0	0	1	
+TcCLB.506405.50	serine-palmitoyl-CoA transferase, putative	1	0	1	0	
+TcCLB.504163.50	fructose-bisphosphate aldolase, glycosomal, putative	1	1	0	0	
+TcCLB.511229.50	S-adenosylhomocysteine hydrolase, putative	1	0	0	1	
+TcCLB.507853.10	lathosterol oxidase, putative	1	0	1	0	
+TcCLB.510565.20	fatty acid desaturase, putative	1	0	1	0	
+TcCLB.506195.110	malate dehydrogenase, putative	2	1	0	1	
+TcCLB.511825.220	alanyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.511727.140	phenylalanyl-tRNA synthetase alpha chain, putative	1	0	0	1	
+TcCLB.506025.60	2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase, putative	2	1	0	1	
+TcCLB.503677.10	phosphomannose isomerase, putative	1	1	0	0	
+TcCLB.511751.120	aldehyde dehydrogenase family, putative	3	1	1	1	
+TcCLB.509153.60	lipin, putative	1	0	1	0	
+TcCLB.509167.120	S-adenosylmethionine decarboxylase proenzyme, putative	1	0	0	1	
+TcCLB.507241.30	arginine kinase	1	0	0	1	
+TcCLB.506425.80	phosphatidylinositol kinase, putative	1	1	0	0	
+TcCLB.510351.90	dihydrolipoamide branched chain transacylase, putative	2	0	1	1	
+TcCLB.511049.40	leucyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.511127.320	kinetoplastid kinetochore protein 10, putative	1	1	0	0	
+TcCLB.508647.270	malic enzyme, putative	1	1	0	0	
+TcCLB.508951.20	hexokinase, putative	1	1	0	0	
+TcCLB.504213.80	threonine synthase, putative	1	0	0	1	
+TcCLB.510329.90	C-8 sterol isomerase, putative	1	0	1	0	
+TcCLB.511461.20	tyrosine aminotransferase	1	0	0	1	
+TcCLB.509589.20	squalene monooxygenase, putative	1	0	1	0	
+TcCLB.503733.70	phosphoacetylglucosamine mutase, putative	1	1	0	0	
+TcCLB.508543.20	STE/STE11 serine/threonine-protein kinase, putative	1	1	0	0	
+TcCLB.506959.70	serine palmitoyltransferase, putative	1	0	1	0	
+TcCLB.507993.390	pyruvate kinase 2, putative	1	1	0	0	
+TcCLB.507107.40	3,2-trans-enoyl-CoA isomerase, mitochondrial precursor, putative	1	0	1	0	
+TcCLB.510187.60	glyceraldehyde 3-phosphate dehydrogenase, cytosolic, putative	1	1	0	0	
+TcCLB.511627.150	beta-ketoacyl-ACP reductase	1	0	1	0	
+TcCLB.508445.30	Serine/threonine-protein kinase NEK21, putative	1	1	0	0	
+TcCLB.508647.200	triosephosphate isomerase, putative	1	1	0	0	
+TcCLB.511071.140	2-amino-3-ketobutyrate coenzyme A ligase, putative	1	0	0	1	
+TcCLB.511691.10	cystathionine beta-synthase	1	0	0	1	
+TcCLB.507047.120	myo-inositol-1(or 4)-monophosphatase 1, putative	1	1	0	0	
+TcCLB.506363.70	amidohydrolase, putative	1	0	0	1	
+TcCLB.507089.270	dihydrolipoyl dehydrogenase, putative	2	1	0	1	
+TcCLB.504033.130	spermidine synthase, putative	1	0	0	1	
+TcCLB.511575.60	isocitrate dehydrogenase [NADP], mitochondrial precursor, putative	1	1	0	0	
+TcCLB.507793.20	cysteine synthase, putative	1	0	0	1	
+TcCLB.511693.60	hypothetical protein, conserved	1	1	0	0	
+TcCLB.507889.10	transaldolase, putative	1	1	0	0	
+TcCLB.509497.30	agmatinase, putative	1	0	0	1	
+TcCLB.511277.290	aconitase, putative	1	1	0	0	
+TcCLB.508799.110	protein kinase, putative	1	1	0	0	
+TcCLB.508175.360	serine sulfhydrylase	1	0	0	1	
+TcCLB.504153.180	UDP-N-acetylglucosamine pyrophosphorylase, putative	1	1	0	0	
+TcCLB.506303.50	UDP-galactose 4-epimerase, putative	1	1	0	0	
+TcCLB.511293.69	glycosomal malate dehydrogenase, putative	2	1	0	1	
+TcCLB.511423.70	glycerol-3-phosphate dehydrogenase (FAD-dependent), putative	1	0	1	0	
+TcCLB.506559.40	cardiolipin synthetase, putative	1	0	1	0	
+TcCLB.506489.20	monoglyceride lipase, putative	1	0	1	0	
+TcCLB.508265.10	glutathione-S-transferase/glutaredoxin, putative	1	0	1	0	
+TcCLB.511109.120	beta-ketoacyl synthase family protein, putative	1	0	1	0	
+TcCLB.505183.20	malic enzyme	1	1	0	0	
+TcCLB.506943.50	glyceraldehyde 3-phosphate dehydrogenase, putative	1	1	0	0	
+TcCLB.503855.30	adenylosuccinate lyase, putative	1	0	0	1	
+TcCLB.510823.80	cytoplasmic l-asparaginase i-like protein, putative	1	0	0	1	
+TcCLB.507609.60	inositol-3-phosphate synthase, putative	1	1	0	0	
+TcCLB.509153.120	acyl-CoA dehydrogenase, putative	3	1	1	1	
+TcCLB.507559.80	deoxyribose-phosphate aldolase, putative	1	1	0	0	
+TcCLB.505987.70	phosphatidylinositol 4-kinase, putative	1	1	0	0	
+TcCLB.506737.20	CMGC/MAPK protein kinase, putative	1	1	0	0	
+TcCLB.504177.20	fatty acyl CoA synthetase 2, putative	1	0	1	0	
+TcCLB.511389.150	thiolase protein-like protein, putative	2	0	1	1	
+TcCLB.511499.30	RNA decapping enzyme, putative	1	1	0	0	
+TcCLB.509379.10	dihydrolipoamide dehydrogenase, putative	2	1	0	1	
+TcCLB.509237.10	mevalonate kinase, putative	1	0	1	0	
+TcCLB.507811.44	phosphoglycerate mutase protein, putative	2	1	0	1	
+TcCLB.504427.70	3-oxo-5-alpha-steroid 4-dehydrogenase, putative	1	0	1	0	
+TcCLB.504017.79	glycyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.509965.60	Nudix hydrolase 4, putative	1	1	0	0	
+TcCLB.508465.110	acyl-CoA dehydrogenase, putative	1	0	1	0	
+TcCLB.510943.150	glycerol-3-phosphate acyltransferase, putative	1	0	1	0	
+TcCLB.507663.50	ATP-dependent RNA helicase, putative	1	1	0	0	
+TcCLB.511529.160	enoyl-CoA hydratase/isomerase family protein, putative	3	1	1	1	
+TcCLB.506945.190	cytochrome p450-like protein, putative	1	0	1	0	
+TcCLB.511581.10	fatty acyl CoA synthetase 2, putative	1	0	1	0	
+TcCLB.510187.70	tyrosine aminotransferase, putative	1	0	0	1	
+TcCLB.508177.110	serine sulfhydrylase	1	0	0	1	
+TcCLB.510889.120	glutamic--pyruvic transaminase, putative	1	0	0	1	
+TcCLB.507001.110	galactokinase-like protein, putative	1	1	0	0	
+TcCLB.506905.50	serine sulfhydrylase	1	0	0	1	
+TcCLB.504425.60	NADP-dependent alcohol hydrogenase, putative	2	1	1	0	
+TcCLB.508257.70	phosphomannomutase-like protein, putative	1	1	0	0	
+TcCLB.509331.210	NADP-dependent alcohol hydrogenase, putative	2	1	1	0	
+TcCLB.506247.220	histidine ammonia-lyase, putative	1	0	0	1	
+TcCLB.508933.20	dihydrolipoamide dehydrogenase, putative	2	1	0	1	
+TcCLB.508277.160	glutaminyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.508153.950	6-phosphofructo-2-kinase 1	1	1	0	0	
+TcCLB.511649.150	phosphoglycerate mutase protein, putative	2	1	0	1	
+TcCLB.509065.70	glyceraldehyde 3-phosphate dehydrogenase, putative	1	1	0	0	
+TcCLB.509331.70	3-oxo-5-alpha-steroid 4-dehydrogenase, putative	1	0	1	0	
+TcCLB.508731.60	adenylosuccinate synthetase, putative	1	0	0	1	
+TcCLB.511731.60	glutamyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.511367.70	dihydrolipoamide acetyltransferase, putative	2	1	0	1	
+TcCLB.506659.30	glutathione synthetase, putative	1	0	0	1	
+TcCLB.508593.110	arginine N-methyltransferase, putative	2	0	1	1	
+TcCLB.507257.80	diacylglycerol kinase-like protein, putative	1	0	1	0	
+TcCLB.510167.10	phosphatidylinositol 3-kinase 2, putative	1	1	0	0	
+TcCLB.507767.10	succinyl-CoA ligase [GDP-forming] beta-chain, putative	1	1	0	0	
+TcCLB.509167.20	3-hydroxy-3-methylglutaryl-CoA reductase, putative	1	0	1	0	
+TcCLB.507023.120	aldehyde dehydrogenase family, putative	3	1	1	1	
+TcCLB.503945.40	6-phosphogluconolactonase, putative	1	1	0	0	
+TcCLB.511761.10	UDP-sugar pyrophosphorylase	1	1	0	0	
+TcCLB.503671.10	metallo-peptidase, Clan MA(E) Family M1	1	0	0	1	
+TcCLB.506829.100	fatty acyl CoA syntetase 1, putative	1	0	1	0	
+TcCLB.506297.200	inositol-1,4,5-trisphosphate (IP3) 5-phosphatase, putative	1	1	0	0	
+TcCLB.511395.60	Serine/threonine-protein kinase NEK14, putative	1	1	0	0	
+TcCLB.507537.30	cysteinyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.507875.20	glutamate dehydrogenase, putative	1	0	0	1	
+TcCLB.509989.10	phosphatidylinositol 3-kinase, putative	1	1	0	0	
+TcCLB.506839.10	CMGC/DYRK protein kinase, putative	1	1	0	0	
+TcCLB.504949.30	succinate dehydrogenase iron-sulfur subunit	1	1	0	0	
+TcCLB.510101.130	inositol-1,4,5-trisphosphate (IP3) 5-phosphatase, putative	1	1	0	0	
+TcCLB.506375.60	tryptophanyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.506577.120	sterol C-24 reductase, putative	1	0	1	0	
+TcCLB.507059.80	glutamine-dependent carbamoyl-phosphate synthetase, putative	1	0	0	1	
+TcCLB.511019.99	glutathione peroxidase, putative	1	0	1	0	
+TcCLB.508175.70	lanosterol synthase, putative	1	0	1	0	
+TcCLB.506363.80	aminoacylase, putative	1	0	0	1	
+TcCLB.506507.10	N-acetylglucosamine-6-phosphate deacetylase-like protein, putative	1	1	0	0	
+TcCLB.506773.100	protein kinase, putative	1	1	0	0	
+TcCLB.504257.60	S-adenosylmethionine decarboxylase proenzyme, putative	1	0	0	1	
+TcCLB.506375.10	tryptophanyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.508741.170	glycerate kinase, putative	3	1	1	1	
+TcCLB.511025.50	glucosamine-6-phosphate isomerase, putative	1	1	0	0	
+TcCLB.503679.10	aspartate aminotransferase, putative	1	0	0	1	
+TcCLB.504137.10	isoleucyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.509331.180	aldose 1-epimerase-like protein, putative	1	1	0	0	
+TcCLB.510301.10	fructose-bisphosphate aldolase, glycosomal, putative	1	1	0	0	
+TcCLB.504153.360	succinyl-coA:3-ketoacid-coenzyme A transferase, mitochondrial precursor, putative	3	1	1	1	
+TcCLB.507963.20	arginase, putative	1	0	0	1	
+TcCLB.510305.30	lipin, putative	1	0	1	0	
+TcCLB.509801.30	citrate synthase, putative	1	1	0	0	
+TcCLB.507669.10	fumarate hydratase, putative	1	1	0	0	
+TcCLB.510105.100	UDP-glucose dehydrogenase, putative	1	1	0	0	
+TcCLB.510039.40	nitrilase, putative	1	0	0	1	
+TcCLB.504105.140	enolase	1	1	0	0	
+TcCLB.506405.10	phosphomannomutase-like protein, putative	1	1	0	0	
+TcCLB.509979.150	nitrilase, putative	1	0	0	1	
+TcCLB.508975.10	acyl-CoA dehydrogenase, mitochondrial precursor, putative	1	0	1	0	
+TcCLB.505999.90	phosphoglycerate kinase, putative	1	1	0	0	
+TcCLB.505807.180	2-hydroxy-3-oxopropionate reductase, putative	2	1	0	1	
+TcCLB.504257.30	S-adenosylmethionine decarboxylase proenzyme, putative	1	0	0	1	
+TcCLB.508177.20	carbohydrate kinase, thermoresistant glucokinase, putative	1	1	0	0	
+TcCLB.506975.30	amidohydrolase, putative	1	0	0	1	
+TcCLB.422189.10	nucleoside phosphatase, putative	1	1	0	0	
+TcCLB.508857.160	threonine synthase, putative	1	0	0	1	
+TcCLB.506193.60	ascorbate peroxidase, putative	1	1	0	0	
+TcCLB.507009.30	ribulose-phosphate 3-epimerase, putative	1	1	0	0	
+TcCLB.510187.30	tyrosine aminotransferase	1	0	0	1	
+TcCLB.511391.120	metallo-peptidase, clan MH, family M18, putative	1	0	0	1	
+TcCLB.503925.80	CDP-diacylglycerol--inositol 3-phosphatidyltransferase	2	1	1	0	
+TcCLB.510421.320	pyruvate dehydrogenase E1 beta subunit, putative	2	1	0	1	
+TcCLB.504163.40	fructose-bisphosphate aldolase, glycosomal, putative	1	1	0	0	
+TcCLB.509683.80	adenylosuccinate synthetase, putative	1	0	0	1	
+TcCLB.506363.90	amidohydrolase, putative	1	0	0	1	
+TcCLB.506297.190	pyruvate phosphate dikinase, putative	1	1	0	0	
+TcCLB.509207.90	pyrroline-5-carboxylate reductase, putative	1	0	0	1	
+TcCLB.506945.20	PAS-domain containing phosphoglycerate kinase, putative	1	1	0	0	
+TcCLB.504177.10	fatty acyl CoA synthetase 2, putative	1	0	1	0	
+TcCLB.508375.30	aspartate carbamoyltransferase, putative	1	0	0	1	
+TcCLB.503899.119	trypanothione/tryparedoxin dependent peroxidase 2, putative	1	0	1	0	
+TcCLB.506835.70	PAS-domain containing phosphoglycerate kinase, putative	1	1	0	0	
+TcCLB.507081.130	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase, putative	1	0	0	1	
+TcCLB.511727.300	GDP-L-fucose synthetase, putative	1	1	0	0	
+TcCLB.510837.20	glutamamyl carboxypeptidase, putative	1	0	0	1	
+TcCLB.510667.120	galactokinase, putative	1	1	0	0	
+TcCLB.510027.10	GDP-mannose 4,6 dehydratase, putative	1	1	0	0	
+TcCLB.511419.40	phosphoglycerate kinase, putative	1	1	0	0	
+TcCLB.504149.160	phosphoinositide-specific phospholipase C, putative	1	1	0	0	
+TcCLB.509805.130	prolyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.511807.284	carnitine O-palmitoyltransferase II, putative	1	0	1	0	
+TcCLB.510647.30	tryptophanyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.510105.230	glyceraldehyde 3-phosphate dehydrogenase, cytosolic, putative	1	1	0	0	
+TcCLB.511903.120	transketolase, putative	1	1	0	0	
+TcCLB.503841.70	aspartate aminotransferase, putative	1	0	0	1	
+TcCLB.504147.110	asparaginase, putative	1	0	0	1	
+TcCLB.506529.50	arginine N-methyltransferase, putative	2	0	1	1	
+TcCLB.504089.40	long-chain-fatty-acid-CoA ligase, putative	1	0	1	0	
+TcCLB.506839.80	phosphoribosylpyrophosphate synthetase, putative	1	1	0	0	
+TcCLB.503687.20	glyceraldehyde-3-phosphate dehydrogenase, putative	1	1	0	0	
+TcCLB.508373.10	glutamine dependent carbamoyl-phosphate synthase, putative	1	0	0	1	
+TcCLB.507757.70	dihydrolipoamide dehydrogenase, putative	2	1	0	1	
+TcCLB.511469.100	2-oxoisovalerate dehydrogenase beta subunit, mitochondrial precursor, putative	2	1	0	1	
+TcCLB.511903.160	phosphatidylinositol 3-kinase vps34-like	1	1	0	0	
+TcCLB.507897.20	squalene synthase, putative	1	0	1	0	
+TcCLB.508831.120	glucosamine 6-phosphate n-acetyltransferase, putative	2	1	0	1	
+TcCLB.509051.30	dTDP-glucose 4,6-dehydratase, putative	1	1	0	0	
+TcCLB.511231.50	aminomethyltransferase, mitochondrial, putative	2	1	0	1	
+TcCLB.510947.10	GDP-mannose pyrophosphorylase	1	1	0	0	
+TcCLB.509067.70	pyrroline-5-carboxylate synthetase-like protein, putative	1	0	0	1	
+TcCLB.509509.20	C-1-tetrahydrofolate synthase, cytoplasmic, putative	1	1	0	0	
+TcCLB.509167.150	homoserine kinase	1	0	0	1	
+TcCLB.507547.40	enoyl-CoA hydratase/Enoyl-CoA isomerase/3-hydroxyacyl-CoA dehydrogenase, putative	3	1	1	1	
+TcCLB.510101.140	pyruvate phosphate dikinase, putative	1	1	0	0	
+TcCLB.511643.30	aspartate carbamoyltransferase, putative	1	0	0	1	
+TcCLB.510437.40	cytosolic malate dehydrogenase, putative	2	1	0	1	
+TcCLB.508479.340	succinyl-CoA synthetase alpha subunit, putative	1	1	0	0	
+TcCLB.509553.60	mitogen-activated protein kinase 3, putative	1	1	0	0	
+TcCLB.510187.100	glucokinase	1	1	0	0	
+TcCLB.509695.190	cdc2-related kinase 1	1	1	0	0	
+TcCLB.503477.20	transaldolase, putative	1	1	0	0	
+TcCLB.504157.20	beta-ketoacyl synthase family protein, putative	1	0	1	0	
+TcCLB.508457.30	lipoic acid containing carrier protein, putative	2	1	0	1	
+TcCLB.507601.70	dihydrolipoamide branched chain transacylase, putative	2	0	1	1	
+TcCLB.511277.60	alcohol dehydrogenase, putative	3	1	1	1	
+TcCLB.429257.20	fatty acid desaturase, putative	1	0	1	0	
+TcCLB.509879.40	fumarate hydratase, putative	1	1	0	0	
+TcCLB.510303.290	acyl-CoA dehydrogenase, putative	3	1	1	1	
+TcCLB.508535.50	tyrosine aminotransferase	1	0	0	1	
+TcCLB.510717.30	2-oxoglutarate dehydrogenase E1 component, putative	2	1	0	1	
+TcCLB.508695.20	phosphatidylinositol 4-kinase, putative	1	1	0	0	
+TcCLB.507011.269	6-phosphogluconate dehydrogenase, decarboxylating	1	1	0	0	
+TcCLB.506529.430	alanine aminotransferase, putative	1	0	0	1	
+TcCLB.473111.10	lathosterol oxidase, putative	1	0	1	0	
+TcCLB.503935.20	2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase, putative	2	1	0	1	
+TcCLB.507257.60	Fumarate hydratase class I, cytosolic	1	1	0	0	
+TcCLB.503453.100	serine palmitoyltransferase, putative	1	0	1	0	
+TcCLB.508119.110	kynureninase, putative	1	0	0	1	
+TcCLB.506261.10	fatty acyl CoA synthetase 2, putative	1	0	1	0	
+TcCLB.507913.20	phosphomevalonate kinase protein, putative	1	0	1	0	
+TcCLB.509261.30	3,2-trans-enoyl-CoA isomerase, mitochondrial precursor, putative	1	0	1	0	
+TcCLB.511531.50	glucosamine-6-phosphate isomerase, putative	1	1	0	0	
+TcCLB.506863.10	alanyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.509163.80	glycine dehydrogenase [decarboxylating], putative	2	1	0	1	
+TcCLB.504835.20	3-methylcrotonyl-CoA carboxylase, putative	1	0	0	1	
+TcCLB.504257.70	valyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.503881.10	kynureninase, putative	1	0	0	1	
+TcCLB.507211.10	choline/carnitine O-acyltransferase, putative	1	0	1	0	
+TcCLB.511303.40	carnitine O-acetyltransferase, putative	1	0	0	1	
+TcCLB.509829.20	isovaleryl-coA dehydrogenase, putative	2	0	1	1	
+TcCLB.508409.160	thymine-7-hydroxylase, putative	1	1	0	0	
+TcCLB.506925.480	ribokinase, putative	1	1	0	0	
+TcCLB.508547.30	acyl-CoA dehydrogenase, mitochondrial precursor, putative	1	0	1	0	
+TcCLB.506297.260	Lanosterol 14-alpha demethylase	1	0	1	0	
+TcCLB.511647.4	glutamine-dependent carbamoyl-phosphate synthetase, putative	1	0	0	1	
+TcCLB.511899.40	2-amino-3-ketobutyrate coenzyme A ligase, putative	1	0	0	1	
+TcCLB.508351.10	fructose-1,6-bisphosphatase, cytosolic, putative	1	1	0	0	
+TcCLB.511817.40	NADH-cytochrome b5 reductase, putative	1	1	0	0	
+TcCLB.508387.20	methylthioadenosine phosphorylase, putative	1	0	0	1	
+TcCLB.506479.120	cytidine triphosphate synthase, putative	1	0	0	1	
+TcCLB.509429.290	hydroxyacylglutathione hydrolase, putative	1	1	0	0	
+TcCLB.506529.508	glucose-6-phosphate isomerase, glycosomal, putative	1	1	0	0	
+TcCLB.510889.221	glucose-6-phosphate isomerase, glycosomal, putative	1	1	0	0	
+TcCLB.511047.40	NADH-cytochrome b5 reductase, putative	1	1	0	0	
+TcCLB.510421.260	diacylglycerol acyltransferase, putative	1	0	1	0	
+TcCLB.509065.60	glyceraldehyde 3-phosphate dehydrogenase, putative	1	1	0	0	
+TcCLB.503815.10	alkyl-dihydroxyacetone phosphate synthase, putative	1	0	1	0	
+TcCLB.507657.20	metallo-peptidase, clan MH, family M18, putative	1	0	0	1	
+TcCLB.511715.20	Serine/threonine-protein kinase NEK21, putative	1	1	0	0	
+TcCLB.508175.370	glutamine synthetase, putative	2	1	0	1	
+TcCLB.510889.140	glutamic--pyruvic transaminase, putative	1	0	0	1	
+TcCLB.509027.70	kinetoplastid kinetochore protein 19, putative	1	1	0	0	
+TcCLB.508323.9	farnesyl pyrophosphate synthase, putative	1	0	1	0	
+TcCLB.506885.124	sphingomyelin/ceramide phosphorylethanolamine synthase, bifunctional	1	0	1	0	
+TcCLB.509161.10	ubiquitin-conjugating enzyme E2, putative	1	0	0	1	
+TcCLB.509287.50	glucose-6-phosphate 1-dehydrogenase, putative	1	1	0	0	
+TcCLB.508241.140	cystathionine beta-synthase, putative	1	0	0	1	
+TcCLB.506401.50	malonyl-CoA decarboxylase, mitochondrial precursor, putative	1	1	0	0	
+TcCLB.510187.40	tyrosine aminotransferase	1	0	0	1	
+TcCLB.506975.40	amidohydrolase, putative	1	0	0	1	
+TcCLB.507873.60	1,2-Dihydroxy-3-keto-5-methylthiopentene dioxygenase, putative	1	0	0	1	
+TcCLB.508153.130	enoyl-CoA hydratase, mitochondrial precursor, putative	3	1	1	1	
+TcCLB.511823.70	farnesyl pyrophosphate synthase	1	0	1	0	
+TcCLB.510507.20	3-ketoacyl-CoA thiolase, putative	2	0	1	1	
+TcCLB.506701.10	dihydrolipoamide dehydrogenase, putative	2	1	0	1	
+TcCLB.503589.10	GDP-mannose pyrophosphorylase	1	1	0	0	
+TcCLB.510797.10	2-oxoglutarate dehydrogenase subunit, putative	2	1	0	1	
+TcCLB.506529.420	alanine aminotransferase, putative	1	0	0	1	
+TcCLB.510945.70	aspartate aminotransferase, mitochondrial, putative	1	0	0	1	
+TcCLB.504339.19	NADP-dependent alcohol hydrogenase, putative	2	1	1	0	
+TcCLB.510671.20	tryptophanyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.511511.150	sphingosine 1-phosphate lyase, putative	1	0	1	0	
+TcCLB.510105.240	short chain 3-hydroxyacyl-CoA dehydrogenase, putative	3	1	1	1	
+TcCLB.510101.50	Lanosterol 14-alpha demethylase	1	0	1	0	
+TcCLB.510943.33	fatty acyl CoA synthetase, putative	1	0	1	0	
+TcCLB.509797.40	isoleucyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.511691.20	cystathionine beta-synthase	1	0	0	1	
+TcCLB.510645.20	nuclear transcription factor, putative	1	0	0	1	
+TcCLB.503493.10	hypothetical protein, conserved	1	1	0	0	
+TcCLB.511277.370	phosphatidic acid phosphatase, putative	1	0	1	0	
+TcCLB.511907.50	lysophospholipase, putative	1	0	1	0	
+TcCLB.510663.70	6-phosphogluconate dehydrogenase, decarboxylating, putative	1	1	0	0	
+TcCLB.509199.24	ribose 5-phosphate isomerase type B	1	1	0	0	
+TcCLB.506777.80	seryl-tRNA synthetase	1	0	0	1	
+TcCLB.504045.110	urocanate hydratase, putative	1	0	0	1	
+TcCLB.509701.10	trifunctional enzyme alpha subunit, mitochondrial precursor-like protein, putative	3	1	1	1	
+TcCLB.511897.10	TFIIH basal transcription factor complex helicase subunit, putative	1	1	0	0	
+TcCLB.508465.90	galactokinase, putative	1	1	0	0	
+TcCLB.511517.60	C-1-tetrahydrofolate synthase, cytoplasmic, putative	1	1	0	0	
+TcCLB.507969.60	C-14 sterol reductase, putative	1	0	1	0	
+TcCLB.506635.80	Hydroxymethylglutaryl-CoA lyase, mitochondrial, putative	3	1	1	1	
+TcCLB.509149.9	cystathionine beta-synthase	1	0	0	1	
+TcCLB.503625.10	asparagine synthetase a, putative	1	0	0	1	
+TcCLB.511001.70	phosphatidylinositol-4-phosphate 5-kinase-like, putative	1	1	0	0	
+TcCLB.507689.40	glutamamyl carboxypeptidase, putative	1	0	0	1	
+TcCLB.508111.30	glutamate dehydrogenase, putative	1	0	0	1	
+TcCLB.503597.10	homoserine kinase	1	0	0	1	
+TcCLB.510659.250	phospholipase A1, putative	1	0	1	0	
+TcCLB.510743.70	lactoylglutathione lyase-like protein, putative	1	1	0	0	
+TcCLB.507165.50	cysteine synthase, putative	1	0	0	1	
+TcCLB.510339.50	spermidine synthase, putative	1	0	0	1	
+TcCLB.507547.90	glycosomal protein P60	1	1	0	0	
+TcCLB.510105.170	dihydrolipoamide acetyltransferase precursor, putative	2	1	0	1	
+TcCLB.503405.10	glutamine synthetase, putative	2	1	0	1	
+TcCLB.510303.50	deoxyribose-phosphate aldolase, putative	1	1	0	0	
+TcCLB.510329.130	UDP-glucose:glycoprotein glucosyltransferase	2	1	1	0	
+TcCLB.509937.150	serine hydroxymethyltransferase, putative	2	1	0	1	
+TcCLB.507641.60	aldehyde dehydrogenase, putative	2	1	0	1	
+TcCLB.509913.10	3-methylcrotonyl-CoA carboxylase, putative	1	0	0	1	
+TcCLB.506401.110	STE/STE11 serine/threonine-protein kinase, putative	1	1	0	0	
+TcCLB.508637.90	phosphoglucomutase	1	1	0	0	
+TcCLB.510151.10	fatty acyl CoA syntetase 1, putative	1	0	1	0	
+TcCLB.510795.10	tyrosine aminotransferase	1	0	0	1	
+TcCLB.508355.320	arginyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.507709.90	sterol C-24 reductase, putative	1	0	1	0	
+TcCLB.511281.40	mevalonate-diphosphate decarboxylase, putative	1	0	1	0	
+TcCLB.508269.30	translation initiation factor 2 subunit, putative	1	0	0	1	
+TcCLB.504013.40	serine acetyltransferase, putative	1	0	0	1	
+TcCLB.511003.60	acetyl-CoA acetyltransferase, putative	3	1	1	1	
+TcCLB.510877.60	ruvB-like DNA helicase, putative	1	1	0	0	
+TcCLB.506959.40	enoyl-CoA hydratase/isomerase family protein, putative	1	0	0	1	
+TcCLB.504003.70	S-adenosyl-methyltransferase mraW-like protein, putative	2	0	1	1	
+TcCLB.508207.240	C-1-tetrahydrofolate synthase, cytoplasmic, putative	1	1	0	0	
+TcCLB.507049.60	NAD(P)-dependent oxidoreductase, putative	2	1	1	0	
+TcCLB.507009.40	galactokinase, putative	1	1	0	0	
+TcCLB.511127.330	kinetoplastid kinetochore protein 19, putative	1	1	0	0	
+TcCLB.511741.50	C-1-tetrahydrofolate synthase, cytoplasmic, putative	1	1	0	0	
+TcCLB.510359.340	phospholipid:diacylglycerol acyltransferase, putative	1	0	1	0	
+TcCLB.510645.30	3,2-trans-enoyl-CoA isomerase, mitochondrial precursor, putative	1	0	1	0	
+TcCLB.507011.200	dihydroxyacetone kinase 1-like, putative	1	0	1	0	
+TcCLB.511023.10	pyrroline-5-carboxylate synthetase-like protein, putative	1	0	0	1	
+TcCLB.510187.50	tyrosine aminotransferase	1	0	0	1	
+TcCLB.507603.230	hydroxyacylglutathione hydrolase, putative	1	1	0	0	
+TcCLB.506757.10	phospholipid:diacylglycerol acyltransferase, putative	1	0	1	0	
+TcCLB.506713.40	N-acetyltransferase complex ARD1 subunit, putative	2	0	1	1	
+TcCLB.507001.80	acyl-CoA dehydrogenase, putative	1	0	1	0	
+TcCLB.508971.40	acetylornithine deacetylase-like, putative	1	0	0	1	
+TcCLB.509937.180	tyrosyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.506127.30	phenylalanyl-tRNA synthetase, putative	1	0	0	1	
+TcCLB.508181.20	6-phosphofructo-2-kinase 1	1	1	0	0	
+TcCLB.509965.380	dTDP-glucose 4,6-dehydratase, putative	1	1	0	0	
+TcCLB.508277.140	phosphomevalonate kinase protein, putative	1	0	1	0	
+TcCLB.509715.120	phosphatidylinositol-4-phosphate 5-kinase, putative	1	1	0	0	
+TcCLB.504017.40	aminomethyltransferase, mitochondrial, putative	2	1	0	1	
+TcCLB.511589.200	S-adenosylhomocysteine hydrolase, putative	1	0	0	1	
+TcCLB.505183.30	malic enzyme, putative	1	1	0	0	
+TcCLB.510185.10	sterol 24-c-methyltransferase, putative	1	0	1	0	
+TcCLB.510121.40	hypothetical protein	2	0	1	1	
+TcCLB.507773.60	phosphoribosylpyrophosphate synthetase, putative	1	1	0	0	
+TcCLB.510301.20	fructose-bisphosphate aldolase, glycosomal, putative	1	1	0	0	
+TcCLB.508303.10	alanine racemase 2, putative	1	0	0	1	
+TcCLB.506629.220	isovaleryl-coA dehydrogenase, putative	2	0	1	1	
+TcCLB.508537.10	glyceraldehyde 3-phosphate dehydrogenase, cytosolic, putative	1	1	0	0	
+TcCLB.510337.40	spermidine synthase, putative	1	0	0	1	
