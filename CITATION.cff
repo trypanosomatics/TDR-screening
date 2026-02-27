@@ -1,0 +1,62 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Prioritization of chemical scaffolds using the TDR Targets
+  database
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Lionel
+    family-names: Urán Landaburu
+    orcid: 'https://orcid.org/0000-0002-6202-9779'
+    email: lionel.U.L@gmail.com
+    affiliation: 'IIIBO, EBYN'
+  - given-names: Mercedes
+    family-names: Didier Garnham
+    email: mdidiergarnham@iib.unsam.edu.ar
+    orcid: 'https://orcid.org/0000-0002-8059-0201'
+    affiliation: 'IIBIO, EBYN'
+  - given-names: Emir
+    family-names: Salas Sarduy
+    email: esalas@iib.unsam.edu.ar
+    orcid: 'https://orcid.org/0000-0002-9709-7552'
+    affiliation: 'IIBIO, EBYN'
+  - given-names: Fernán
+    family-names: Agüero
+    email: fernan@iib.unsam.edu.ar
+    affiliation: 'IIBIO, EBYN'
+    orcid: 'https://orcid.org/0000-0003-1331-5741'
+  - name: >-
+      Instituto de Investigaciones Biotecnologicas (IIBIO) -
+      Consejo Nacional de Investigaciones Científicas y
+      Técnicas (CONICET)
+    address: 25 de Mayo 1401
+    city: San Martín
+    country: AR
+    post-code: B1650HMQ
+    location: Buenos Aires
+    alias: IIBIO
+  - name: >-
+      Escuela de Bio y Nanotecnología (EByN) - Universidad
+      de San Martín (UNSAM)
+    address: 25 de Mayo 1401
+    city: San Martín
+    country: AR
+    post-code: B1650HMQ
+    location: Buenos Aires
+    alias: EBYN
+identifiers:
+  - type: doi
+    value: 10.1234/zenodo.4321
+    description: test doi
+repository-code: 'https://github.com/trypanosomatics/TDR-screening'
+keywords:
+  - drug discovery
+  - TDR Targets
+  - Neglected Tropical Diseases
+  - Trypanosoma cruzi
+  - Chagas disease
